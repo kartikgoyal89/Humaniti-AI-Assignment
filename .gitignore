@@ -1,0 +1,16 @@
+.streamlit/secrets.toml
+.env
+__pycache__/
+*.pyc
+.venv/
+# Never commit class recordings
+samples/
+data/
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.avi
+*.m4a
+*.mp3
+*.wav
